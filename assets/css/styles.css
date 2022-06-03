@@ -1,0 +1,11 @@
+.DESAFIOS img{
+  align-items: center;
+  justify-content: center;
+}
+footer{
+    height: 3em;
+    line-height: 3em;
+    text-align: center;
+    font-weight: 900;
+  }
+
